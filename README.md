@@ -66,10 +66,9 @@ Deverá executar com `yarn start` na porta 4000
 ## Descrição do React/PWA
 
 ### Tela Inicial
-![tela_incial](./docs/browser02.png)
-
+<a href="https://ibb.co/SKqzG3K"><img src="https://i.ibb.co/zSKzD4S/te2.jpg" alt="te2" border="0"></a>
 ### Tela detalhe de amigos
-![tela_detalhe_amigos](./docs/browser03.png)
+<a href="https://ibb.co/XX7rbXb"><img src="https://i.ibb.co/hsBJysy/te1.jpg" alt="te1" border="0"></a>
 
 ### Stack:
 - React
