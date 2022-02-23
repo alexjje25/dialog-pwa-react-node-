@@ -66,11 +66,10 @@ Deverá executar com `yarn start` na porta 4000
 ## Descrição do React/PWA
 
 ### Tela Inicial
-![tela_incial](./docs/img1.jpg)
+![tela_incial](./docs/browser02.png)
 
 ### Tela detalhe de amigos
-![tela_detalhe_amigos](./docs/img2.jpg)
-
+![tela_detalhe_amigos](./docs/browser03.png)
 
 ### Stack:
 - React
